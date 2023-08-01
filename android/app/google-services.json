@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "537705094022",
+    "project_id": "chatbot-10b42",
+    "storage_bucket": "chatbot-10b42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537705094022:android:6395894bd5476e54382a07",
+        "android_client_info": {
+          "package_name": "at.mujtaba.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "537705094022-3kinl8mr4vee68btq1lp32fdl7mmulfb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN0ib0iSxdQlhR66udyP7VpPrhnNQaCPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "537705094022-3kinl8mr4vee68btq1lp32fdl7mmulfb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
